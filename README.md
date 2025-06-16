@@ -153,7 +153,7 @@ Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e 
       align=left 
       margin=10 
       width=80 
-      src="https://avatars.githubusercontent.com/u/37452836?v=4"
+      src="https://media.licdn.com/dms/image/v2/C4D03AQEE3a8A9G4nxg/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1516502327394?e=1755734400&v=beta&t=b6kua9f6YHQjO2gVhsQGxz5y4A0uQN4gJmXG_7myITE"
     />
     <p>&nbsp&nbsp&nbspLeandro Silveira<br>
     &nbsp&nbsp&nbsp
